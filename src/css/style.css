@@ -1,0 +1,126 @@
+html {
+  scroll-behavior: smooth;
+  /* box-sizing: border-box;
+  margin: 0;
+  padding: 0; */
+}
+
+.bg-welcome {
+  background: url("../img/14.jfif");
+  background-position: bottom center;
+  background-size: cover;
+}
+
+
+/* .bg-couple-wedok {
+  background: url("../img/wedok.jpeg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0.5rem;
+  transform: scaleX(-1);
+} */
+
+.bg-flower-top-bottom {
+  background: url("../img/top.gif") right top no-repeat,
+    url("../img/bottom.gif") left bottom no-repeat;
+}
+
+.bg-flower-top {
+  background: url("../img/top.gif") right top no-repeat;
+}
+
+.bg-flower-bottom {
+  background: url("../img/bottom.gif") left bottom no-repeat;
+}
+
+.bg-flower-groom {
+  background: url("../img/groom.gif") right center no-repeat;
+  background-size: contain;
+}
+
+.bg-flower-bride {
+  background: url("../img/bride.gif") left center no-repeat;
+  background-size: contain;
+}
+
+.bg-canvas {
+  background: url("../img/bg.jfif") center center no-repeat;
+  background-size: 100% 100%;
+}
+
+.bg-rizky-all2 {
+  background: url("../img/Rizky/5.png") right bottom no-repeat,
+    url("../img/Rizky/7.png") top left no-repeat,
+    url("../img/Rizky/6.png") left bottom no-repeat,
+    url("../img/bg.jfif") center center no-repeat auto;
+  background-size: 25%;
+}
+
+/* url("../img/bg.jfif") right center no-repeats, */
+.bg-rizky-all {
+  background: url("../img/Rizky/5.png") right bottom no-repeat,
+    url("../img/Rizky/7.png") top left no-repeat,
+    url("../img/Rizky/6.png") left bottom no-repeat;
+  background-size: 25%;
+}
+
+.bg-rizky-top-left {
+  background: url("../img/Rizky/7.png") top left no-repeat;
+  /* background-size: contain; */
+}
+
+.bg-rizky-bot-left {
+  background: url("../img/Rizky/6.png") left bottom no-repeat;
+  /* background-size: contain; */
+}
+
+.bg-rizky-center {
+  background: url("../img/Rizky/2.png") left bottom no-repeat;
+  background-size: auto;
+}
+
+
+/* ASLAM */
+.bg-aslam {
+  background: url("../img/bg-white.png");
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.bg-Tiana {
+  background: url("../img/bgutama.png");
+  background-position: bottom center;
+  background-size: cover;
+}
+
+.bg-ar {
+  background: url("../img/front.png");
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.bg-frame {
+  background: url("../img/frame-crop.png");
+  background-position: center;
+  background-size: 100%;
+  background-repeat: no-repeat;
+}
+
+.bg-couple-lanang {
+  background: url("../img/unda.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0.5rem;
+}
+
+.bg-couple-wedok {
+  background: url("../img/tiana.jpg");
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  border-radius: 0.5rem;
+  /* transform: scaleX(-1); */
+}
